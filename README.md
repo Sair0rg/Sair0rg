@@ -5,20 +5,12 @@ Hi, I’m Sarangvp 👋 — a cybersecurity enthusiast and job seeker. I special
 🔍 **My Focus Areas Include**:
 - Penetration Testing & Ethical Hacking
 - Web Application Security (OWASP Top 10)
-- Network Security (Firewalls, VPNs, IDS/IPS)
-- Malware Analysis & Reverse Engineering
 - Security Audits & Risk Assessments
-- Incident Response & Forensics
-- Cryptography & Data Protection
-- Cloud Security (AWS, Azure, GCP)
 
 🛠️ **Tools & Technologies I Use**:
 - **Penetration Testing**: Metasploit, Burp Suite, Nmap, Wireshark, Aircrack-ng
 - **Web Security**: OWASP ZAP, Nikto, SQLmap, Gobuster
 - **Network Security**: Kali Linux, Netcat, Tcpdump, Snort
-- **Forensics**: Volatility, Autopsy, FTK Imager
-- **Cryptography**: OpenSSL, GPG
-- **Cloud Security**: AWS Security Services, Azure Security, Google Cloud Security
 
 ---
 
@@ -106,10 +98,10 @@ I'm always learning to stay up to date with the ever-changing landscape of cyber
 
 I’m actively seeking job opportunities in cybersecurity and would love to connect. If you are interested in collaborating, discussing cybersecurity, or hiring me, feel free to reach out!
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [LinkedIn Profile](link-to-linkedin)
+- **Email**: (sarangvp198@gml.com)
+- **LinkedIn**: [LinkedIn Profile]([link-to-linkedin](https://www.linkedin.com/in/sarang-vp-982ab4233/))
 - **Twitter**: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-- **Personal Website**: [Your Website](link-to-website)
+- **Personal Website**: [Your Website](sair0rg.github.io)
 - **Bug Bounty Profile**: [HackerOne](link-to-hackerone-profile) | [Bugcrowd](link-to-bugcrowd-profile)
 
 ---
@@ -135,7 +127,7 @@ Feel free to drop me a message if you're interested in collaborating, need help 
 
 ### 🚨 **Security-Related Posts & Resources**
 
-- **Blog**: [My Cybersecurity Blog](link-to-blog) (Tips, tutorials, vulnerability write-ups)
+- **Blog**: [My Cybersecurity Blog](https://sair0rg.github.io/blog-single2.html) (Tips, tutorials, vulnerability write-ups)
 - **Security Tools**: [My Security Tools Collection](link-to-repository)
 - **Books & Resources**: [Security Learning Resources](link-to-resource-list)
 
